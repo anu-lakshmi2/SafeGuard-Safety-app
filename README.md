@@ -1,6 +1,6 @@
-# 🛡️ SafeGuard – Women Safety Application
+# 🛡️ SafeGuard – Safety Application
 
-A web-based women safety application developed during a hackathon to provide quick emergency assistance and improve personal safety through essential security features.
+A web-based safety application developed during a hackathon to provide quick emergency assistance and improve personal safety through essential security features.
 
 ## ✨ Features
 
