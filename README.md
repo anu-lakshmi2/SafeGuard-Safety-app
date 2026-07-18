@@ -23,7 +23,7 @@ A web-based safety application developed during a hackathon to provide quick eme
 ## 📂 Project Structure
 
 ```
-SafeGuard-Women-Safety-App/
+SafeGuard-Safety-App/
 │
 ├── index.html
 ├── home.html
